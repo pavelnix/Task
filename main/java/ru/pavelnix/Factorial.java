@@ -10,7 +10,7 @@ public class Factorial {
      */
     private boolean validate;
     private int number;
-/**/
+
     /**
      * Constructor
      */
