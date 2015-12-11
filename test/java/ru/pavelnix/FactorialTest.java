@@ -5,7 +5,7 @@ import org.junit.Test;
 import static junit.framework.TestCase.assertFalse;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
-
+/**/
 /**
  * Testing class factorial
  */
