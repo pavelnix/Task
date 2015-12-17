@@ -3,6 +3,7 @@ package ru.pavelnix;
 
 /**
  * Class counts the values of the quadratic function on the interval
+ * add
  */
 public class ValuesQuadraticFunction {
 
