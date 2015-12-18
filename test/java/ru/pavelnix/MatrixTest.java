@@ -11,7 +11,7 @@ import static org.junit.Assert.assertThat;
 public class MatrixTest {
 
     /**
-     * Method test rotation matrix 2X2 by 90 degrees
+     * Method  test rotation matrix 2X2 by 90 degrees
      */
     @Test
     public void rotationMatrix2X2By90Degrees() {

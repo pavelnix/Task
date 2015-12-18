@@ -18,7 +18,7 @@ public class Matrix {
     /**
      * Method is rotation matrix by 90 degree
      *
-     * @return rotation matrix
+     * @return rotation  matrix
      */
     public int[][] rotationMatrix() {
         int[][] resultMatrix = new int[matrix.length][matrix.length];
