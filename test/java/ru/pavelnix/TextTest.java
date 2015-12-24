@@ -26,6 +26,7 @@ public class TextTest {
                 {"123",
                         "456",
                         "789"};
+
         Text text = new Text(strings);
 
         //Act
